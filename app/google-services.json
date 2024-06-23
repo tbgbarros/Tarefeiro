@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "734070153569",
+    "project_id": "tarefeiro-43785",
+    "storage_bucket": "tarefeiro-43785.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734070153569:android:011eb3aa469a747405a520",
+        "android_client_info": {
+          "package_name": "com.example.tarefeiro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKjo4ZCdjSAhDz9HDXC3vxfe4-MifOpU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
